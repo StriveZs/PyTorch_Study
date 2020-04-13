@@ -16,3 +16,5 @@ dataset/cifar-10-python.tar.gz
 .DS_Store
 .ipynb_checkpoints/PyTorch 图像分类器-checkpoint.ipynb
 .ipynb_checkpoints/DataParallel-checkpoint.ipynb
+.ipynb_checkpoints/Load and Handle Data-checkpoint.ipynb
+face/
