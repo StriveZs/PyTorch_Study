@@ -21,3 +21,5 @@ dataset/hymenoptera_data/
 face/
 .ipynb_checkpoints/PyTorch-初步尝试-checkpoint.ipynb
 .ipynb_checkpoints/PyTorch之迁移学习-checkpoint.ipynb
+checkpoint/4000_checkpoint.tar
+.ipynb_checkpoints/seq2seq模型之自动聊天机器人-checkpoint.ipynb
